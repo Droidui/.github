@@ -1,7 +1,7 @@
 # Droidui
 
 <p align="center"> 
-<h2>It is the Open Source project organisation where you find the ui for android application with source code.</h2>
+<h2>It is the Open Source organisation where you can find the app ui with source code.</h2>
 <a href="https://github.com/Droidui">
   <img src="https://user-images.githubusercontent.com/81229551/213881301-1c2b4728-6c9d-4a96-9335-74d1efb515bd.png" width=300 />
 </a>
